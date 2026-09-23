@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testing-1.0.dtd">
+<suite name = "TestSuite">
+    <test name = "RegressionTests" parallel = "tests" thread-count = "3">
+        <classes>
+            <class name = "tests.FrameworkBuildDataDrivenTest" />
+            <class name = "tests.MoreUIValidationsTest" />
+            <class name = "tests.UIValidationsContinuedTest" />
+        </classes>
+    </test>
+    <test name = "SmokeTests">
+        <classes>
+            <class name = "tests.BasicsTest" />
+        </classes>
+    </test>
+</suite>

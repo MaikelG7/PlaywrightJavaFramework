@@ -1,0 +1,26 @@
+[
+  {
+    "titlePrefix": "Tech Conference",
+    "description": "Annual technology conference for developers",
+    "city": "Hyderabad",
+    "venue": "HICC Convention Center",
+    "dateTime": "2027-06-15T10:00",
+    "price": "1500",
+    "totalSeats": "100",
+    "fullName": "Rahul Shetty",
+    "email": "rahul.student@example.com",
+    "phone": "9876543210"
+  },
+  {
+    "titlePrefix": "Music Festival",
+    "description": "Live music festival with top artists",
+    "city": "Bangalore",
+    "venue": "Palace Grounds",
+    "dateTime": "2027-08-20T18:00",
+    "price": "2500",
+    "totalSeats": "200",
+    "fullName": "Test Automation User",
+    "email": "automation.test@example.com",
+    "phone": "8765432109"
+  }
+]
